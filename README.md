@@ -168,7 +168,7 @@ Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-name).
 Open a pull request.
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
 
 Contact
 For support or any questions, please feel free to reach out through email me at a.sovyte@gmail.com / Discord- Sp4cesovy
