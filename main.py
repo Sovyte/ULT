@@ -31,5 +31,12 @@ async def on_ready():
 async def ping(interaction: discord.Interaction):
     embed = create_ping_embed()
     await interaction.response.send_message(embed=embed)
-  
+    
+def create_support_embed()
+    embed = discord.Embed(
+        title="Support Server Link 👉"
+        description = "https://discord.gg/Z3QEVV7VRb"
+        color= discord.Color.red()
+    )
+
 bot.run(TOKEN)
